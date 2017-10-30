@@ -27,5 +27,4 @@ If you forget to configure the list of forbidden words, "Don't Annoy Me!" will p
 
 
 _Credits:_
-
 This repo is inspired by and edited from 'Shut Up, Guy' extension by killpack.
