@@ -3,8 +3,6 @@ Don't Annoy Me!
 
 "Tag that playboy" FB posts have been surfacing a lot lately and it's annoying af. So this extension is a rescue to everyone who's annoyed by such posts.
 
-So I implemented it!
-
 "Don't Annoy Me!" is a Chrome extension that will block and hide Facebook posts containing one or more user-provided forbidden words. Keep your tenuous friendship intact while hiding all mentions of "Tag that playboy"!
 
 
