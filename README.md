@@ -23,7 +23,7 @@ _To configure and use:_
 - Remember, these words must *exactly* match words in a Facebook post for the post to be blocked, so make sure you haven't made any typos!
 - Click "Save". Your changes will be applied when you reload Facebook.
 
-If you forget to configure the list of forbidden words, "Don't Annoy Me!" will prompt you each time you visit Facebook until it has been configured. Yes, this *is* also annoying, but friendly annoying.
+If you forget to configure the list of annoying words, "Don't Annoy Me!" will prompt you each time you visit Facebook until it has been configured. Yes, this *is* also annoying, but friendly annoying.
 
 
 _Credits:_
