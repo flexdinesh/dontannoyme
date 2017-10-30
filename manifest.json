@@ -1,0 +1,14 @@
+{
+    "name": "Don't Annoy Me!",
+    "version": "1.1",
+    "description": "Block those annoying fb posts",
+    "content_scripts": [{
+        "matches": ["*://*.facebook.com/*"],
+        "css": ["dontannoyme.css"],
+        "js": ["jquery-1.9.0.min.js", "dontannoyme.js"]
+    }],
+    "options_page": "options.html",
+    "web_accessible_resources": ["options.html"],
+    "permissions": ["storage"],
+    "manifest_version": 2
+}

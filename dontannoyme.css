@@ -1,0 +1,25 @@
+div.dontannoyme_matches {
+    position: relative;
+    z-index: 1;
+    padding: 3px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.dontannoyme, .dontannoyme :not(.highlightSelectorButton) {
+    background-color: #333333 !important;
+    background-image: none !important;
+    color: #333333 !important;
+    border: 0 none !important;
+}
+
+.dontannoyme img {
+    display: none !important;
+}
+
+.dontannoyme .fwb a[data-hovercard] {
+    padding: 3px;
+    display: inline-block;
+    background-color: white !important;
+}
+
