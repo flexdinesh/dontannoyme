@@ -8,7 +8,7 @@ Don't Annoy Me!
 
 _To install:_
 
-- Download the contents of this repo (click the button at the top that says "ZIP").
+- Download the contents of this repo (click the button at the top that says "Clone or Download").
 - Open the Extensions view in Chrome.
 - Make sure Developer mode is enabled.
 - Click "Load unpacked extension...".
